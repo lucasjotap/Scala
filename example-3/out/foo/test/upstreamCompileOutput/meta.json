@@ -1,0 +1,10 @@
+{
+    "value": [
+        {
+            "analysisFile": "/home/lucas/Desktop/Scala/example-3/out/foo/compile/dest/zinc",
+            "classes": "ref:8e0ffd0c:/home/lucas/Desktop/Scala/example-3/out/foo/compile/dest/classes"
+        }
+    ],
+    "valueHash": -378187273,
+    "inputsHash": -898865758
+}

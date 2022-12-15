@@ -1,0 +1,13 @@
+{
+    "value": [
+        "ref:c984eca8:/home/lucas/Desktop/Scala/example-3/foo/resources",
+        "ref:8e0ffd0c:/home/lucas/Desktop/Scala/example-3/out/foo/compile/dest/classes",
+        "qref:67ea2b4e:/home/lucas/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar",
+        "qref:d3e7db78:/home/lucas/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/utest_2.13/0.7.4/utest_2.13-0.7.4.jar",
+        "qref:04a7bc98:/home/lucas/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
+        "qref:f8244d62:/home/lucas/.cache/coursier/v1/https/repo1.maven.org/maven2/org/portable-scala/portable-scala-reflect_2.13/0.1.1/portable-scala-reflect_2.13-0.1.1.jar",
+        "qref:f3405e35:/home/lucas/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar"
+    ],
+    "valueHash": -2089592663,
+    "inputsHash": -2075051572
+}
