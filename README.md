@@ -1,2 +1,2 @@
-Learning the basic of Scala. Scalable language for Apache.
+Learning the basics of Scala. Scalable language for Apache.
 
